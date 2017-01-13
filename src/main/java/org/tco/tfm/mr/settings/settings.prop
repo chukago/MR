@@ -1,0 +1,4 @@
+database.location=/home/crtc/Desktop/MR/test.db
+#database.location=C:\\Users\\rnza\\Desktop\\mr.db
+#database.location=\\\\TCOATYNTDFS1\\SHARE\\Operations\\SCM\\Services & Transportation\\Facilities Management Group\\TCO-ESS Shared\\Material Request\\mr.db
+table.columns.width=35;75;125;175;75;75;75;75;125;75;75;100;100;75;75;175;175;75
